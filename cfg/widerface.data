@@ -1,6 +1,6 @@
 classes= 1
-train  = /Users/ymbaek/wider_train.txt
-valid  = /Users/ymbaek/wider_val.txt
+train  = /home/ymbaek/workspace/darknet/wider_train.txt
+valid  = /home/ymbaek/workspace/darknet/wider_val.txt
 names = data/face.names
-backup = backup
+backup = wider_result
 
