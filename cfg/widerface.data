@@ -1,0 +1,6 @@
+classes= 1
+train  = /Users/ymbaek/wider_train.txt
+valid  = /Users/ymbaek/wider_val.txt
+names = data/face.names
+backup = backup
+
